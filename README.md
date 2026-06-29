@@ -13,4 +13,4 @@ I'm a Computer Science student at Sapienza University of Rome. My primary focus 
 ### ⚡ Outside of Code
 When I'm not debugging or reading research papers, you'll probably find me at the gym lifting weights, playing video games, or exploring new anime and music. I'm eager to discuss about anything and to partecipate in a strong community.
 
-📫 **Let's connect:** [linktr.ee/sonosaturn]
+📫 **Let's connect:** https://linktr.ee/sonosaturn
